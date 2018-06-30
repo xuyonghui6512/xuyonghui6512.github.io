@@ -1,0 +1,3 @@
+/home/skyer/Desktop/Task/第七周/视觉代码/necttest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skyer/Desktop/Task/第七周/视觉代码/necttest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skyer/Desktop/Task/第七周/视觉代码/necttest/cmake-build-debug/CMakeFiles/test1.dir

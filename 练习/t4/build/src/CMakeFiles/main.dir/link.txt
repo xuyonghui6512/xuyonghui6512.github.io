@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/main.dir/main.o  -o main  -L/home/xuxuxu/b/cmake/t3/build/lib -rdynamic -lhello -Wl,-rpath,/home/xuxuxu/b/cmake/t3/build/lib 

@@ -1,0 +1,5 @@
+/home/xuxuxu/b/cmake/去除视频中的背景光/build/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/去除视频中的背景光/build/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/去除视频中的背景光/build/bin/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/去除视频中的背景光/build/bin/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/去除视频中的背景光/build/bin/CMakeFiles/SHOW.dir

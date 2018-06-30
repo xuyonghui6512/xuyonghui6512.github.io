@@ -1,0 +1,3 @@
+PROJECT(SHOW)
+ADD_SUBDIRECTORY(src bin)
+

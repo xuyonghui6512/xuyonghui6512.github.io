@@ -1,0 +1,1 @@
+/home/xuxuxu/b/cmake/基本图形的绘制/build/bin/CMakeFiles/SHOW.dir

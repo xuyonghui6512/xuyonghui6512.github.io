@@ -1,0 +1,5 @@
+/home/xuxuxu/b/cmake/调用摄像头并canny/build/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/调用摄像头并canny/build/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/调用摄像头并canny/build/bin/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/调用摄像头并canny/build/bin/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/调用摄像头并canny/build/bin/CMakeFiles/SHOW.dir

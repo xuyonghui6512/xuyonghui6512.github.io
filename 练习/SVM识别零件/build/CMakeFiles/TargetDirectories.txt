@@ -1,0 +1,3 @@
+/home/xuxuxu/b/cmake/SVM识别零件/build/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/SVM识别零件/build/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/SVM识别零件/build/CMakeFiles/Chapter6.dir

@@ -1,0 +1,5 @@
+/home/xuxuxu/b/cmake/去除背景/build/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/去除背景/build/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/去除背景/build/bin/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/cmake/去除背景/build/bin/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/cmake/去除背景/build/bin/CMakeFiles/SHOW.dir

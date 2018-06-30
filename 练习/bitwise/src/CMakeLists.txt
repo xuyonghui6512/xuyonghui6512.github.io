@@ -1,0 +1,3 @@
+ADD_EXECUTABLE(bitwise main.cpp)
+Find_PACKAGE(OpenCV REQUIRED)
+TARGET_LINK_LIBRARIES(bitwise ${OpenCV_LIBS})

@@ -1,0 +1,24 @@
+图像处理经常要用到形态学操作，其中首先要获取 结构元素。包括结构元素的大小及形状。
+
+
+自定义一个结构元素kernel，要声明一个Mat，然后对Mat的元素赋值；这种方法灵活但略显复杂。
+
+
+OpenCV提供了一个函数getStructuringElement，可以获取常用的结构元素的形状：矩形（包括线形）、椭圆（包括圆形）及十字形。
+MORPH_RECT， MORPH_ELLIPSE， MORPH_CROSS
+
+
+getStructuringElement的内部并没有什么优化实现，只是封装了一下功能。其原理同样是声明一个Mat，然后求形状，指定Mat的值。
+十字形为单线宽。
+
+
+形态学各种功能实现，都归结为腐蚀erode与膨胀dilate的组合。所以，接口函数morphologyEx的内部实现都是调用erode与dilate函数。
+
+
+erode与dilate函数的实现接口是morphOp，创建形态学滤波器，并返回滤波器引擎。然后，应用通用滤波器接口方法实现。如下，
+    Ptr<FilterEngine> f = createMorphologyFilter(op, src.type(),
+        kernel, anchor, borderType, borderType, borderValue );
+
+    f->apply( src, dst );
+    for( int i = 1; i < iterations; i++ )
+        f->apply( dst, dst );

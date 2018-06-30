@@ -1,0 +1,3 @@
+/home/xuxuxu/b/视觉代码/fitfloor/build/CMakeFiles/rebuild_cache.dir
+/home/xuxuxu/b/视觉代码/fitfloor/build/CMakeFiles/edit_cache.dir
+/home/xuxuxu/b/视觉代码/fitfloor/build/CMakeFiles/fitfloor.dir

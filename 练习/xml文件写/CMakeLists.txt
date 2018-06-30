@@ -1,0 +1,4 @@
+PROJECT(SHOW)
+find_package(OpenCV REQUIRED)
+ADD_SUBDIRECTORY(src bin)
+

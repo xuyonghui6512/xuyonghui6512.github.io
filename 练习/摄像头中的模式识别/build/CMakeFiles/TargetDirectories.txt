@@ -1,0 +1,1 @@
+/home/xuxuxu/b/cmake/摄像头中的模式识别/build/bin/CMakeFiles/SHOW.dir

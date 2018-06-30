@@ -1,0 +1,6 @@
+PROJECT(test)
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)#将可执行文件放入bin中
+SET(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)#将共享库放入lib文件中
+
+ADD_EXECUTABLE(test main.cpp)
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1460786128 source:/home/starry/Documents/code/ni2exmaple/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
+1476945885 source:/home/starry/Documents/code/openni/ni2exmaple/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
+1483769023 source:/home/starry/code/ni_recorder/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
+1490799308 source:/home/hitcrt/lab/ni_recorder/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
+1490828224 source:/home/hitcrt/code/ni_recorder/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
+1495819644 source:/home/skyer/Desktop/Task/第七周/视觉代码/ni_recorder/main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<OpenNI.h>
+
